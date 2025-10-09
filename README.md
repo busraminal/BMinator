@@ -170,3 +170,9 @@ _Output → `outputs/generated_text.txt`_
 ## ⚖️ License
 Licensed under the **MIT License** — free for academic and commercial use.  
 © 2025 Büşra Mina Al. All Rights Reserved.
+
+⚠️ Development Note
+The current code represents an early prototype version of the BMinator (DeepPersona) project.
+These files demonstrate the system’s architecture and initial experiments, but do not yet produce the final model outputs.
+Fully trained versions and validated releases will be published after versioning and optimization.
+This repository is currently shared for research and architectural demonstration purposes only.

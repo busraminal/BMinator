@@ -168,7 +168,7 @@ _Output → `outputs/generated_text.txt`_
 ---
 
 ## ⚖️ License
-Licensed under the **MIT License** — free for academic and commercial use.  
+Licensed under the **MIT License** — free for academic use.  
 © 2025 Büşra Mina Al. All Rights Reserved.
 
 ⚠️ Development Note

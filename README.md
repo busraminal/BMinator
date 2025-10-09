@@ -5,6 +5,8 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-yellow.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Framework-red.svg)](https://pytorch.org/)
 [![NLP](https://img.shields.io/badge/NLP-Generative_AI-green.svg)]()
+[![Status: Prototype](https://img.shields.io/badge/Status-Prototype-orange.svg)]()
+
 
 ## 📖 Overview
 **BMinator (DeepPersona)** is an AI system that creates **personalized digital characters and narrative texts** from a single face image.  
